@@ -1,0 +1,17 @@
+Exercise 01: Database Visualization
+
+Objective:
+Visualize the PostgreSQL database 'piscineds' created in Exercise 00.
+
+Requirements:
+1. Use a database management tool (such as pgAdmin, DBeaver, or Postico) to connect to the 'piscineds' database.
+2. Confirm that you can view the database schema, including tables, columns, and data types.
+3. Ensure you can interact with the database using the chosen tool.
+
+Instructions:
+- Open the chosen database management tool and connect to the 'piscineds' database using your login credentials.
+- Use the tool to view the database schema and data.
+- Verify that all tables and their structures are visible and correctly set up.
+
+Note:
+No files need to be submitted for this exercise. The focus is on confirming that you can visualize and interact with the database using the management tool.

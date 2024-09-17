@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS data_template (
+  event_time TIMESTAMP WITH TIME ZONE NOT NULL,
+  event_type TEXT NOT NULL,
+  product_id INTEGER NOT NULL,
+  price NUMERIC(10, 2) NOT NULL,
+  user_id BIGINT NOT NULL,
+  user_session UUID
+);
+
+CREATE TABLE IF NOT EXISTS data_2022_oct (LIKE data_template INCLUDING ALL);
+CREATE TABLE IF NOT EXISTS data_2022_nov (LIKE data_template INCLUDING ALL);
+CREATE TABLE IF NOT EXISTS data_2022_dec (LIKE data_template INCLUDING ALL);
+CREATE TABLE IF NOT EXISTS data_2023_jan (LIKE data_template INCLUDING ALL);
+DROP TABLE IF EXISTS data_template;
