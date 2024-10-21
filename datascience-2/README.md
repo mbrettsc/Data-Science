@@ -3,6 +3,10 @@
 
 ## Exercises Overview
 
+### Introduction
+
+This module focuses on displaying and analyzing data through various visualization techniques, emphasizing the role of data analysts in making informed decisions based on graphical representations of data.
+
 ### Exercise 00: American Apple Pie
 
 - Create a pie chart to visualize user activity on the site.

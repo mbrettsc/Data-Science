@@ -4,6 +4,10 @@
 
 ## Exercises Overview
 
+### Introduction
+
+This is a structured module that focuses on predictive modeling, requiring participants to apply various data science techniques, including confusion matrices, heatmaps, variance calculations, feature selection, decision trees, KNN, and voting classifiers, all while adhering to specified guidelines for software setup and submission in a collaborative environment.
+
 ### Exercise 00: Confusion Matrix
 - You have to do the calculations by yourself, but you can use any library to display the graph.
 - Print and display the confusion matrix.

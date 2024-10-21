@@ -4,6 +4,10 @@
 
 ## Exercises Overview
 
+### Introduction
+
+This module focuses on understanding current data through exercises that include creating visualizations, analyzing correlations, standardizing and normalizing data, and splitting datasets to prepare for predictive modeling.
+
 ### Exercise 00: Histogram
 
 - Create a graph to visualize the data using the "Test_knight.csv" file.
